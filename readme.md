@@ -132,7 +132,7 @@ TCP sockets are used for reliable communication. The server listens on a specifi
 The server provides feedback for each operation and implements robust error handling. It sends appropriate messages back to the clients, ensuring clarity in communication and operation status.
 
 
-Based on the provided code for the NMS server, I will draft a detailed `README.md` that outlines the functionalities and key features of the server component of your project. This README will provide an overview of the server's capabilities, its implementation details, and how it interacts with clients and storage servers.
+
 
 ---
 
